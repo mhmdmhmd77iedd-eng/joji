@@ -1,19 +1,19 @@
 {
-  "name": "جوجي",
-  "short_name": "جوجي",
+  "name": "Joje — جوجي",
+  "short_name": "Joje",
   "lang": "ar",
   "dir": "rtl",
   "id": "./",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0A0A0D",
-  "theme_color": "#0A0A0D",
+  "background_color": "#050409",
+  "theme_color": "#050409",
   "icons": [
     {
-      "src": "icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
       "purpose": "any"
     },
     {
@@ -34,7 +34,7 @@
       "type": "image/png"
     }
   ],
-  "description": "جوجي: محرر صور وفيديو على جهازك، تجميل وفلاتر سينمائية.",
+  "description": "Joje (جوجي): محرر صور وفيديو على جهازك، تجميل وفلاتر سينمائية.",
   "orientation": "portrait",
   "categories": [
     "photo",

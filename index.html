@@ -3,39 +3,35 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover, interactive-widget=resizes-content" />
-  <meta name="theme-color" content="#0a0a0d" />
+  <meta name="theme-color" content="#050409" />
   <meta name="description" content="جوجي: محرر صور سريع على جهازك. قص، إضاءة، ألوان، فلاتر، وحفظ بالدقة الكاملة." />
-  <link rel="icon" href="./icon.svg" type="image/svg+xml" />
+  <link rel="icon" href="./icon-192.png" type="image/png" />
   <link rel="manifest" href="./manifest.webmanifest" />
   <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-  <meta name="apple-mobile-web-app-title" content="جوجي" />
-  <title>جوجي</title>
-  <script type="module" crossorigin src="./assets/index-qEy__9OS.js"></script>
-  <link rel="stylesheet" crossorigin href="./assets/index-RSQiv9Gk.css">
+  <meta name="apple-mobile-web-app-title" content="Joje" />
+  <title>Joje</title>
+  <meta name="application-name" content="Joje" />
+  <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="./splash/iphone-750x1334.png" />
+  <link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="./splash/iphone-828x1792.png" />
+  <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="./splash/iphone-1125x2436.png" />
+  <link rel="apple-touch-startup-image" media="(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="./splash/iphone-1170x2532.png" />
+  <link rel="apple-touch-startup-image" media="(device-width: 393px) and (device-height: 852px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="./splash/iphone-1179x2556.png" />
+  <link rel="apple-touch-startup-image" media="(device-width: 402px) and (device-height: 874px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="./splash/iphone-1206x2622.png" />
+  <link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="./splash/iphone-1242x2688.png" />
+  <link rel="apple-touch-startup-image" media="(device-width: 428px) and (device-height: 926px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="./splash/iphone-1284x2778.png" />
+  <link rel="apple-touch-startup-image" media="(device-width: 430px) and (device-height: 932px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="./splash/iphone-1290x2796.png" />
+  <link rel="apple-touch-startup-image" media="(device-width: 440px) and (device-height: 956px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="./splash/iphone-1320x2868.png" />
+  <script type="module" crossorigin src="./assets/index-BH2Phx3b.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-CYmC50x9.css">
 </head>
 <body>
   <div id="app">
     <!-- Home -->
-    <section id="home" class="screen" aria-label="الرئيسية">
-      <header class="home-top">
-        <div class="brand"><span class="brand-mark" aria-hidden="true"></span><span class="brand-name">جوجي</span></div>
-        <div class="home-actions">
-          <button id="set-btn" class="icon-btn" type="button" aria-label="الإعدادات"><span class="ic" data-icon="Settings"></span></button>
-        </div>
-      </header>
-      <div class="home-body">
-        <h1 class="home-title">شنو نعدّل اليوم؟</h1>
-        <p class="home-lead">اختار صورة، وكل الأدوات تنتظرك تحت بمكان واحد.</p>
-        <div class="hero-grid" id="hero-grid"></div>
-        <div class="sec-head"><h2>ادخل مباشرة على</h2></div>
-        <div class="quick" id="quick"></div>
-        <div class="sec-head"><h2>آخر تعديلاتك</h2></div>
-        <div id="recent"></div>
-        <p class="home-note"><span class="ic sm" data-icon="ShieldCheck"></span> صورك تتعدّل على جهازك وما تنرفع لأي مكان</p>
-      </div>
+    <section id="home" class="screen jhome" aria-label="الرئيسية">
+      <div id="home-root"></div>
       <input id="file" type="file" accept="image/*" hidden />
       <div class="drop-hint" aria-hidden="true"><span>أفلت الصورة هنا</span></div>
     </section>
