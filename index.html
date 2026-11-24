@@ -24,8 +24,8 @@
   <link rel="apple-touch-startup-image" media="(device-width: 428px) and (device-height: 926px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="./splash/iphone-1284x2778.png" />
   <link rel="apple-touch-startup-image" media="(device-width: 430px) and (device-height: 932px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="./splash/iphone-1290x2796.png" />
   <link rel="apple-touch-startup-image" media="(device-width: 440px) and (device-height: 956px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="./splash/iphone-1320x2868.png" />
-  <script type="module" crossorigin src="./assets/index-C0KRHA5I.js"></script>
-  <link rel="stylesheet" crossorigin href="./assets/index-CYmC50x9.css">
+  <script type="module" crossorigin src="./assets/index-rxtTXfwa.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-Da6XihgR.css">
 </head>
 <body>
   <div id="app">
@@ -54,9 +54,10 @@
       <div class="stage" id="stage">
         <div class="viewport" id="viewport">
           <canvas id="view" aria-label="الصورة"></canvas>
+          <canvas class="before-cv" id="before-cv" aria-hidden="true"></canvas>
           <div class="split" id="split" hidden>
             <div class="split-line"></div>
-            <div class="split-knob"><span class="ic sm" data-icon="ArrowLeftRight"></span></div>
+            <div class="split-knob" role="slider" tabindex="0" aria-label="خط المقارنة" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50"><span class="ic sm" data-icon="ArrowLeftRight"></span></div>
             <span class="tag tag-before">قبل</span>
             <span class="tag tag-after">بعد</span>
           </div>
