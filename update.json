@@ -1,14 +1,14 @@
 {
   "stable": {
-    "code": 7,
-    "name": "5.0.2",
-    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.2.apk",
-    "notes": "جوجي 5.0.2: حافة الشخص بأدوات الخلفية صارت ناعمة، إضاءة الخلفية أطبع، والطريق المتحرك نظيف."
+    "code": 8,
+    "name": "5.0.3",
+    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.3.apk",
+    "notes": "جوجي 5.0.3: تحديد الشخص كامل بأي وضعية (الإيد الممدودة والكف)، ويبدي من تختار الصورة."
   },
   "beta": {
-    "code": 7,
-    "name": "5.0.2",
-    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.2.apk",
-    "notes": "جوجي 5.0.2: حافة الشخص بأدوات الخلفية صارت ناعمة، إضاءة الخلفية أطبع، والطريق المتحرك نظيف."
+    "code": 8,
+    "name": "5.0.3",
+    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.3.apk",
+    "notes": "جوجي 5.0.3: تحديد الشخص كامل بأي وضعية (الإيد الممدودة والكف)، ويبدي من تختار الصورة."
   }
 }
