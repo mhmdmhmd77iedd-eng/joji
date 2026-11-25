@@ -1,14 +1,14 @@
 {
   "stable": {
-    "code": 5,
-    "name": "5.0",
-    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.apk",
-    "notes": "جوجي 5.0: أدوات وجه وتعديل جديدة، كل تعديل تطفيه وترجعه بلمسة، محرك أقوى وشاشة أخف."
+    "code": 6,
+    "name": "5.0.1",
+    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.1.apk",
+    "notes": "جوجي 5.0.1: الحركة ترجع على الآيفون، ورقم النسخة بالإعدادات."
   },
   "beta": {
-    "code": 5,
-    "name": "5.0",
-    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.apk",
-    "notes": "جوجي 5.0: أدوات وجه وتعديل جديدة، كل تعديل تطفيه وترجعه بلمسة، محرك أقوى وشاشة أخف."
+    "code": 6,
+    "name": "5.0.1",
+    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.1.apk",
+    "notes": "جوجي 5.0.1: الحركة ترجع على الآيفون، ورقم النسخة بالإعدادات."
   }
 }

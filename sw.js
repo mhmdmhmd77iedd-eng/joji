@@ -1,5 +1,5 @@
 // Offline cache: network first for the page, cache first for hashed assets.
-const C = 'joji-v7';
+const C = 'joji-v8';
 self.addEventListener('install', (e) => { self.skipWaiting(); });
 self.addEventListener('activate', (e) => e.waitUntil(caches.keys().then((ks) => Promise.all(ks.filter((k) => k !== C && !k.startsWith('joji-ai-')).map((k) => caches.delete(k)))).then(() => self.clients.claim())));
 self.addEventListener('fetch', (e) => {
