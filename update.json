@@ -1,14 +1,14 @@
 {
   "stable": {
-    "code": 8,
-    "name": "5.0.3",
-    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.3.apk",
-    "notes": "جوجي 5.0.3: تحديد الشخص كامل بأي وضعية (الإيد الممدودة والكف)، ويبدي من تختار الصورة."
+    "code": 9,
+    "name": "5.0.4",
+    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.4.apk",
+    "notes": "تحديد الشخص الكامل صار يشتغل على الآيفون، ويطلع لك شنو دا يصير"
   },
   "beta": {
-    "code": 8,
-    "name": "5.0.3",
-    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.3.apk",
-    "notes": "جوجي 5.0.3: تحديد الشخص كامل بأي وضعية (الإيد الممدودة والكف)، ويبدي من تختار الصورة."
+    "code": 9,
+    "name": "5.0.4",
+    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.4.apk",
+    "notes": "تحديد الشخص الكامل صار يشتغل على الآيفون، ويطلع لك شنو دا يصير"
   }
 }
