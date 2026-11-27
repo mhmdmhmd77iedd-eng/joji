@@ -1,14 +1,14 @@
 {
   "stable": {
-    "code": 9,
-    "name": "5.0.4",
-    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.4.apk",
-    "notes": "تحديد الشخص الكامل صار يشتغل على الآيفون، ويطلع لك شنو دا يصير"
+    "code": 10,
+    "name": "5.0.5",
+    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.5.apk",
+    "notes": "أدوات الذكاء رجعت تشتغل على الآيفون، وإذا خلصت الذاكرة تعيد تشغيل نفسها بدل ما توكف"
   },
   "beta": {
-    "code": 9,
-    "name": "5.0.4",
-    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.4.apk",
-    "notes": "تحديد الشخص الكامل صار يشتغل على الآيفون، ويطلع لك شنو دا يصير"
+    "code": 10,
+    "name": "5.0.5",
+    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.5.apk",
+    "notes": "أدوات الذكاء رجعت تشتغل على الآيفون، وإذا خلصت الذاكرة تعيد تشغيل نفسها بدل ما توكف"
   }
 }
