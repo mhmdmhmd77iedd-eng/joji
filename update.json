@@ -1,14 +1,14 @@
 {
   "stable": {
-    "code": 14,
-    "name": "5.0.9",
-    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.9.apk",
-    "notes": "تتبّع سبب خروج التطبيق على الآيفون"
+    "code": 15,
+    "name": "5.0.10",
+    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.10.apk",
+    "notes": "خروج التطبيق على الآيفون: الذاكرة ترجع بعد أدوات الذكاء"
   },
   "beta": {
-    "code": 14,
-    "name": "5.0.9",
-    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.9.apk",
-    "notes": "تتبّع سبب خروج التطبيق على الآيفون"
+    "code": 15,
+    "name": "5.0.10",
+    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.10.apk",
+    "notes": "خروج التطبيق على الآيفون: الذاكرة ترجع بعد أدوات الذكاء"
   }
 }
