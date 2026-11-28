@@ -1,14 +1,14 @@
 {
   "stable": {
-    "code": 13,
-    "name": "5.0.8",
-    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.8.apk",
-    "notes": "إصلاح خروج التطبيق على الآيفون أثناء التجميل"
+    "code": 14,
+    "name": "5.0.9",
+    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.9.apk",
+    "notes": "تتبّع سبب خروج التطبيق على الآيفون"
   },
   "beta": {
-    "code": 13,
-    "name": "5.0.8",
-    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.8.apk",
-    "notes": "إصلاح خروج التطبيق على الآيفون أثناء التجميل"
+    "code": 14,
+    "name": "5.0.9",
+    "url": "https://mhmdmhmd77iedd-eng.github.io/joji/apk/joji-5.0.9.apk",
+    "notes": "تتبّع سبب خروج التطبيق على الآيفون"
   }
 }
